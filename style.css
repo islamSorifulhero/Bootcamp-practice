@@ -1,0 +1,19 @@
+section{
+    font-size: 25px;
+    font-family: monospace;
+}
+section header ul{
+    display: flex;
+    justify-content: space-between;
+}
+section header ul div{
+    display: flex;
+}
+section header ul li{
+    list-style: none;
+}
+section header ul li a{
+    text-decoration: none;
+    margin-left: 0px;
+    padding: 10px;
+}
